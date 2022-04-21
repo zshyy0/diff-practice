@@ -1,4 +1,2 @@
 ﻿# diff-practice
-diff練習用
-変更working 4th
-mergetool
+rebase-practiceブランチで更新
